@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://drkpn.github.io/p001",
+  "homepage": "https://KL2400030537.github.io/PROJECT_FE",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
