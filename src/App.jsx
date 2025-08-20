@@ -21,7 +21,7 @@ class Myapp extends Component {
                     </tr>
                     <tr>
                         <td><label>Email ID</label></td>
-                        <td><label>padmanaban.k@kluniversity.in</label></td>
+                        <td><label>2400030537@kluniversity.in</label></td>
                     </tr>
                 </table>
             </div>
