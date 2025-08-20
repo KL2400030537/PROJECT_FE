@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './Myapp.css';
+import './App.css';
 
-class Myapp extends Component {
+class App extends Component {
     render() {
         return (
             <div className='myInfo'>
@@ -29,4 +29,4 @@ class Myapp extends Component {
     }
 }
 
-export default Myapp;
+export default App;
